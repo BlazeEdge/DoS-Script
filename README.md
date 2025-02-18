@@ -11,7 +11,7 @@
 `pip install rich`
 
 ## How to run
-- `python3 ./bot.py`
+- `python3 ./main.py`
 
 
 <sub>Well, that's all lol</sub>
